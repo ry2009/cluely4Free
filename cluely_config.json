@@ -1,0 +1,28 @@
+{
+  "audio": {
+    "listen_duration": 3,
+    "silence_threshold": 0.01,
+    "model": "base"
+  },
+  "vision": {
+    "capture_interval": 8,
+    "max_text_length": 2000
+  },
+  "llm": {
+    "use_local": false,
+    "max_tokens": 1000,
+    "temperature": 0.7
+  },
+  "ui": {
+    "auto_dismiss_time": 15,
+    "window_position": "top-right",
+    "transparency": 0.95
+  },
+  "triggers": {
+    "direct_activation": [
+      "hey cluely",
+      "cluely"
+    ],
+    "intent_threshold": 0.7
+  }
+}
