@@ -164,6 +164,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [ry2009](https://github.com/ry2009)**
+**Made with suggestions from cluely to cursor directly & by [ry2009](https://github.com/ry2009)**
 
 *Cluely - Your intelligent desktop companion* 
