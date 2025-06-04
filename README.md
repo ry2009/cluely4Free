@@ -22,7 +22,7 @@
 
 - Python 3.8 or higher
 - macOS (tested) / Linux / Windows
-- Google Gemini API key
+- Google Gemini API key (free) or any other LLM API key / any local llm you can run
 - Microphone access
 
 ### Installation
